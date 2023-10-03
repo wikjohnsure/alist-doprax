@@ -17,3 +17,4 @@ RUN mkdir /opt/alist \
 
 ENTRYPOINT bash /opt/alist/a.sh
 
+EXPOSE 5244
